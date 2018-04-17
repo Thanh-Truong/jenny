@@ -1,0 +1,54 @@
+/*
+Theme Name: SKT Spa
+Theme URI: http://www.sktthemes.net/shop/beauty-spa-lite-wordpress-theme/
+Author: SKT Themes
+Author URI: http://www.sktthemes.net
+Description: SKT Spa is a massage center, beauty spa salon responsive WordPress theme which caters to beauty salons, spas, massage, health and hair salons. Compatible with popular plugins like WooCommerce and Contact form 7. It consists of homepage sections and easy to change link color. Easy to manage settings using customizer. Demo: http://sktthemesdemo.net/spa/
+
+Version: 1.7.1
+License: GNU General Public License
+License URI: license.txt
+Text Domain: skt-spa
+Tags: black,gray,green,tan,white,yellow,light,two-columns,right-sidebar,responsive-layout,custom-background, custom-colors,custom-header,custom-menu,featured-images,full-width-template,sticky-post,theme-options,threaded-comments,translation-ready
+
+SKT Spa WordPress Theme has been created by SKT Themes(sktthemes.net), 2016.
+SKT Spa WordPress Theme is released under the terms of GNU GPL
+*/
+body{ margin:0; padding:0;line-height:20px; font:14px 'Roboto Condensed',san-serif; background-color:#fdfdf1;}
+*{ margin:0; padding:0;}
+img{ border:none; margin:0; padding:0; height:auto}
+.wp-caption, .wp-caption-text, .sticky, .gallery-caption, .aligncenter{ margin:0; padding:0;}
+p{ margin:0; padding:0;}
+.postmeta a:hover, a, #footer .widget-column a:hover, #copyright a:hover{ text-decoration:none; color:#0ec7ab;}
+ol,ul{ margin:0; padding:0;}
+ul li ul, ul li ul li ul, ol li ol, ol li ol li ol{ margin-left:10px;}
+h1,h2,h3,h4,h5,h6{ margin:0; padding:0; word-wrap:break-word;}
+.clear{ clear:both;}
+.alignnone{ width:100% !important;}
+img.alignleft, .alignleft{ float:left; margin:0 15px 0 0; padding:5px; border:1px solid #cccccc;}
+img.alignright, .alignright{ float:right; margin:0 0 0 15px; padding:5px; border:1px solid #cccccc;}
+
+
+/* ------ Woocommerce ------- */
+select.orderby{ margin:0; padding:0; height:35px; font:14x 'PT Sans', Helvetica, sans-serif; color:#4e4e4e; border:1px solid #cccccc;}
+.woocommerce ul.products li.product .price, .woocommerce-page ul.products li.product .price{ color:#7ab040 !important;}
+
+.team_links{text-align:center; padding:10px 0; border-top:1px #fff solid;}
+.member_info{background:#f6f6f6; text-align:center; margin-top:10px;}
+.member_dtl{padding:15px;}
+.member_dtl p{ margin:5px 0 !important;}
+
+.mobile_nav a{background:url(images/mobile_nav_right.png) no-repeat right center #515151; border:1px #ccc solid; margin:10px 0 0; padding:8px 20px; display:none; font:400 20px 'Roboto Condensed',san-serif; color:#FFF !important;}
+
+.pagination{display:table; clear:both;}
+.pagination ul{list-style:none; margin:20px 0;}
+.pagination ul li{display:inline; float:left; margin-right:5px;}
+.pagination ul li span, .pagination ul li a{background:#313131; color:#fff; padding:5px 10px; display:inline-block;}
+.pagination ul li .current, .pagination ul li a:hover{background:#0ec7ab;}
+
+#comment-nav-above .nav-previous, #comment-nav-below .nav-previous{ float:none !important; margin:10px 0;}
+ol.comment-list li{ list-style:none; margin-bottom:5px;}
+
+#sidebar #searchform input[type="text"]{height:24px; padding-left:5px; width:155px; border:1px solid #000;}
+.spacer20{clear:both; height:20px;}
+body.wp-custom-logo .logo h2{display:none;}

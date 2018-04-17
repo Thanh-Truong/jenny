@@ -1,0 +1,601 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: SKT Spa\n"
+"POT-Creation-Date: 2015-08-26 17:05+0530\n"
+"PO-Revision-Date: 2015-08-26 17:05+0530\n"
+"Last-Translator: \n"
+"Language-Team: SKT Themes <support@sktthemes.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.1\n"
+"X-Poedit-Basepath: ..\\\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;gettext;gettext_noop\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:13
+msgid "404 Not Found"
+msgstr ""
+
+#: 404.php:18
+msgid ""
+"Looks like you have taken a wrong turn Dont worry... it happens to the best "
+"of us."
+msgstr ""
+
+#: archive.php:30
+#, php-format
+msgid "Author: %s"
+msgstr ""
+
+#: archive.php:38
+#, php-format
+msgid "Day: %s"
+msgstr ""
+
+#: archive.php:41
+#, php-format
+msgid "Month: %s"
+msgstr ""
+
+#: archive.php:44
+#, php-format
+msgid "Year: %s"
+msgstr ""
+
+#: archive.php:47
+msgid "Asides"
+msgstr ""
+
+#: archive.php:50
+msgid "Images"
+msgstr ""
+
+#: archive.php:53
+msgid "Videos"
+msgstr ""
+
+#: archive.php:56
+msgid "Quotes"
+msgstr ""
+
+#: archive.php:59
+msgid "Links"
+msgstr ""
+
+#: archive.php:62 sidebar.php:12
+msgid "Archives"
+msgstr ""
+
+#: comments.php:36 comments.php:56
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:37 comments.php:57
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:38 comments.php:58
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:68
+msgid "Comments are closed."
+msgstr ""
+
+#: content-page.php:20 content-single.php:34 content.php:46 image.php:65
+msgid "Pages:"
+msgstr ""
+
+#: content-page.php:26 content-single.php:52 content.php:75 image.php:30
+#: image.php:71 inc/template-tags.php:70 inc/template-tags.php:89
+msgid "Edit"
+msgstr ""
+
+#: content-single.php:40 content.php:24 content.php:57 content.php:64
+msgid ", "
+msgstr ""
+
+#: content-single.php:43
+msgid "&nbsp;|&nbsp; Tags: "
+msgstr ""
+
+#: content.php:37
+msgid "Read More &raquo;"
+msgstr ""
+
+#: content.php:43
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: content.php:60
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: content.php:67
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: content.php:72
+msgid "Leave a comment"
+msgstr ""
+
+#: content.php:72
+msgid "1 Comment"
+msgstr ""
+
+#: content.php:72
+msgid "% Comments"
+msgstr ""
+
+#: footer.php:15 inc/customizer.php:86
+msgid "About Wellness Spa"
+msgstr ""
+
+#: footer.php:18 inc/customizer.php:97
+msgid ""
+"Integer pulvinar mauris magna, pretium faucibus nisl ornare sit amet. "
+"Quisque tempus odio id erat euismod, vel mollis nunc maxmus. Praesent "
+"dapibus diam magna, in pretium dolor interdum <br><br> Proin eu dui dapibus, "
+"mattis turpis nec, consectetur dui. Vestibulum tristique ut nisl in "
+"pellentesque. Proin tempus ex et finibus euismod. Nunc quam diam, "
+"ullamcorper eu nulla id, faucibus fermentum dolor. Donec et felis et lorem "
+"bibendum semper."
+msgstr ""
+
+#: footer.php:23
+msgid "Latest News"
+msgstr ""
+
+#: footer.php:35
+msgid "Latest Tweets"
+msgstr ""
+
+#: footer.php:36
+msgid "Use twitter widget for twitter feed."
+msgstr ""
+
+#: footer.php:44
+msgid "SKT Spa"
+msgstr ""
+
+#: footer.php:47 inc/customizer.php:471
+msgid ""
+"Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+msgstr ""
+
+#: footer.php:50
+msgid "Phone : "
+msgstr ""
+
+#: footer.php:50 inc/customizer.php:488
+msgid "+123 456 7890"
+msgstr ""
+
+#: footer.php:53
+msgid "Fax : "
+msgstr ""
+
+#: footer.php:53 inc/customizer.php:499
+msgid "+9876543210"
+msgstr ""
+
+#: footer.php:56
+msgid "E-mail : "
+msgstr ""
+
+#: functions.php:54
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:74
+msgid "Blog and Page Sidebar"
+msgstr ""
+
+#: functions.php:75
+msgid "Appears on blog and page sidebar"
+msgstr ""
+
+#: functions.php:84
+msgid "Twitter Widget"
+msgstr ""
+
+#: functions.php:85
+msgid "Appears on footer of the page"
+msgstr ""
+
+#: functions.php:199 functions.php:279
+msgid "of"
+msgstr ""
+
+#: functions.php:218
+msgid "&copy; 2015 SKT Spa. All Rights Reserved. Design by <a href=\""
+msgstr ""
+
+#: functions.php:272
+msgid "&laquo; Prev"
+msgstr ""
+
+#: functions.php:273
+msgid "Next &raquo;"
+msgstr ""
+
+#: header.php:28
+msgid "Follow us :-"
+msgstr ""
+
+#: header.php:53
+msgid "Menu"
+msgstr ""
+
+#: header.php:101
+msgid "Slide Title"
+msgstr ""
+
+#: header.php:102
+msgid "Slide Description"
+msgstr ""
+
+#: header.php:104 index.php:69 index.php:79 index.php:89 index.php:99
+#: index.php:132
+msgid "Read More"
+msgstr ""
+
+#: image.php:20
+#, php-format
+msgid ""
+"Published <span class=\"entry-date\"><time class=\"entry-date\" datetime="
+"\"%1$s\">%2$s</time></span> at <a href=\"%3$s\">%4$s &times; %5$s</a> in <a "
+"href=\"%6$s\" rel=\"gallery\">%7$s</a>"
+msgstr ""
+
+#: image.php:37
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr ""
+
+#: image.php:40
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: inc/customizer.php:47
+msgid "Logo (PRO Version)"
+msgstr ""
+
+#: inc/customizer.php:49
+msgid "<strong>Logo Settings available in <a href=\""
+msgstr ""
+
+#: inc/customizer.php:72
+msgid "Color Scheme"
+msgstr ""
+
+#: inc/customizer.php:73
+msgid "<strong>More color options in <a href=\""
+msgstr ""
+
+#: inc/customizer.php:80
+msgid "Footer Text"
+msgstr ""
+
+#: inc/customizer.php:91
+msgid "Add about title here"
+msgstr ""
+
+#: inc/customizer.php:106
+msgid "Add about description here"
+msgstr ""
+
+#: inc/customizer.php:121
+msgid "To remove credit &amp; copyright text upgrade to PRO version"
+msgstr ""
+
+#: inc/customizer.php:127
+msgid "Slider Settings"
+msgstr ""
+
+#: inc/customizer.php:128
+msgid ""
+"Add slider images here. <br><strong>More slider settings available in <a "
+"href=\""
+msgstr ""
+
+#: inc/customizer.php:143
+msgid "Slide Image 1 (1400x446)"
+msgstr ""
+
+#: inc/customizer.php:151
+msgid "Making Everyone Beautiful"
+msgstr ""
+
+#: inc/customizer.php:160
+msgid "Slider Title 1"
+msgstr ""
+
+#: inc/customizer.php:168
+msgid ""
+"Phasellus sit amet luctus risus, a dapibus purus. Quisque at ante "
+"sollicitudin, euismod erat eu, congue justo. Donec viverra ligula lectus "
+"Phasellus tempus sem ac tellus semper, eu ullamcorper purus pulvinar. "
+"Maecenas nisi sapien, rhoncus non tempus vitae, placerat ac ex."
+msgstr ""
+
+#: inc/customizer.php:177
+msgid "Slider description  1"
+msgstr ""
+
+#: inc/customizer.php:190
+msgid "Slide link 1"
+msgstr ""
+
+#: inc/customizer.php:205
+msgid "Slide image 2"
+msgstr ""
+
+#: inc/customizer.php:213
+msgid "Restoring Balance & Natural Health"
+msgstr ""
+
+#: inc/customizer.php:222
+msgid "Slider Title 2"
+msgstr ""
+
+#: inc/customizer.php:230
+msgid ""
+"Quisque at ante sollicitudin, euismod erat eu, congue justo. Phasellus sit "
+"amet luctus risus, a dapibus purus. Donec viverra ligula lectus Phasellus "
+"tempus sem ac tellus semper, eu ullamcorper purus pulvinar. Maecenas nisi "
+"sapien, rhoncus non tempus vitae, placerat ac ex."
+msgstr ""
+
+#: inc/customizer.php:239
+msgid "Slide description 2"
+msgstr ""
+
+#: inc/customizer.php:252
+msgid "Slide link 2"
+msgstr ""
+
+#: inc/customizer.php:267
+msgid "Slide Image 3 (1400x446)"
+msgstr ""
+
+#: inc/customizer.php:275
+msgid "Spa Renewal"
+msgstr ""
+
+#: inc/customizer.php:284
+msgid "Slider Title 3"
+msgstr ""
+
+#: inc/customizer.php:292
+msgid ""
+"Phasellus tempus sem ac at ante sollicitudin, euismod erat eu, congue justo. "
+"tellus semper, eu ullamcorper purus pulvinar. Maecenas nisi sapien, rhoncus "
+"non tempus vitae, placerat ac ex. Quisque Phasellus sit amet luctus risus, a "
+"dapibus purus. Donec viverra ligula lectus"
+msgstr ""
+
+#: inc/customizer.php:301
+msgid "Slider description  3"
+msgstr ""
+
+#: inc/customizer.php:314
+msgid "Slide link 3"
+msgstr ""
+
+#: inc/customizer.php:320
+msgid "Home Boxes"
+msgstr ""
+
+#: inc/customizer.php:321
+msgid "Manage Home Boxes"
+msgstr ""
+
+#: inc/customizer.php:331
+msgid "Add Section Heading Title"
+msgstr ""
+
+#: inc/customizer.php:344
+msgid "Add Section Description"
+msgstr ""
+
+#: inc/customizer.php:357
+msgid "Add Content For Box 1"
+msgstr ""
+
+#: inc/customizer.php:370
+msgid "Add Content For Box 2"
+msgstr ""
+
+#: inc/customizer.php:383
+msgid "Add Content For Box 3"
+msgstr ""
+
+#: inc/customizer.php:396
+msgid "Add Content For Box 4"
+msgstr ""
+
+#: inc/customizer.php:404
+msgid "Social Settings"
+msgstr ""
+
+#: inc/customizer.php:405
+msgid ""
+"Add social icons link here. <br><strong>More icon available in <a href=\""
+msgstr ""
+
+#: inc/customizer.php:415
+msgid "Add facebook link here"
+msgstr ""
+
+#: inc/customizer.php:426
+msgid "Add twitter link here"
+msgstr ""
+
+#: inc/customizer.php:437
+msgid "Add google plus link here"
+msgstr ""
+
+#: inc/customizer.php:448
+msgid "Add linkedin link here"
+msgstr ""
+
+#: inc/customizer.php:454
+msgid "Contact Details"
+msgstr ""
+
+#: inc/customizer.php:455
+msgid "Add you contact details here"
+msgstr ""
+
+#: inc/customizer.php:460
+msgid "Contact Us"
+msgstr ""
+
+#: inc/customizer.php:465
+msgid "Add contact title here"
+msgstr ""
+
+#: inc/customizer.php:480
+msgid "Add contact description here"
+msgstr ""
+
+#: inc/customizer.php:493
+msgid "Add contact number here."
+msgstr ""
+
+#: inc/customizer.php:504
+msgid "Add fax number here."
+msgstr ""
+
+#: inc/customizer.php:515
+msgid "Add you email here"
+msgstr ""
+
+#: inc/customizer.php:523
+msgid "Layout Settings (PRO Version)"
+msgstr ""
+
+#: inc/customizer.php:525
+msgid "<strong>Layout Settings available in  <a href=\""
+msgstr ""
+
+#: inc/customizer.php:544
+msgid "Fonts Settings (PRO Version)"
+msgstr ""
+
+#: inc/customizer.php:546
+msgid "<strong>Font Settings available in <a href=\""
+msgstr ""
+
+#: inc/customizer.php:565
+msgid "Documentation &amp; Support"
+msgstr ""
+
+#: inc/customizer.php:567
+msgid "For documentation and support check this link : <a href=\""
+msgstr ""
+
+#: inc/template-tags.php:33
+msgid "Post navigation"
+msgstr ""
+
+#: inc/template-tags.php:43
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: inc/template-tags.php:47
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: inc/template-tags.php:70
+msgid "Pingback:"
+msgstr ""
+
+#: inc/template-tags.php:93
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/template-tags.php:184
+#, php-format
+msgid ""
+"<span class=\"posted-on\">Published %1$s</span><span class=\"byline\"> by "
+"%2$s</span>"
+msgstr ""
+
+#: index.php:54
+msgid "Welcome to Wellness Spa"
+msgstr ""
+
+#: index.php:59
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis malesuada ex "
+"non magna convallis aliquam. Nulla ullamcorper elit a ante ullamcorper, nec "
+"malesuada <br> massa commodo. In ut nisi nisl. Nullam porta fringilla purus, "
+"quis mollis enim tincidunt ut. Praesent vitae lacus ligula. Aliquam "
+"efficitur pharetra mauris, in molestie arcu<br> efficitur ornare. Vivamus "
+"sed finibus felis, nec cursus lorem."
+msgstr ""
+
+#: index.php:67
+msgid "Ayurveda Spa"
+msgstr ""
+
+#: index.php:68 index.php:78 index.php:88 index.php:98
+msgid ""
+"Aenean vitae pharetra tortor. Praesent tristique ante eu molestie cursus. "
+"Sed pulvinar aliquet tortor, non posuere augue rhoncus pellenesque. Maecenas "
+"fringilla ante ac."
+msgstr ""
+
+#: index.php:77
+msgid "Luxury Spa"
+msgstr ""
+
+#: index.php:87
+msgid "Massage Spa"
+msgstr ""
+
+#: index.php:97
+msgid "Herbal Spa"
+msgstr ""
+
+#: index.php:107
+msgid "Latest Posts"
+msgstr ""
+
+#: no-results.php:11
+msgid "Nothing Found"
+msgstr ""
+
+#: no-results.php:15
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: no-results.php:18
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: no-results.php:24
+msgid ""
+"It seems we can not find what you are looking for. Perhaps searching can "
+"help."
+msgstr ""
+
+#: search.php:14
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: sidebar.php:20
+msgid "Meta"
+msgstr ""
